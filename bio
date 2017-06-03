@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="C:\Users\HP PC\Desktop\Web Dev\style.css" type="text/css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Quicksand:300,700" rel="stylesheet">
+</head>
+
+<body>
+	<div class="header">
+		<div id="heading"> 
+			<h1>Vinoth Gulapala</h1>
+			<h2>A Site To Know Little About Me.</h2>
+		</div>
+	</div>
+	<div id="social"> 
+		<h4>Me Being Social</h4>	
+			<a href="https://www.facebook.com/vinoth.gulapala?ref=bookmarks" target="_blank">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" alt="Vinoth Gulapala's FB Timeline" width="50px">
+			</a>
+			<a href="https://twitter.com/gulapala_vinoth" target="_blank">
+				<img src="http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Twitter-icon.png" alt="Vinoth Gulapala's twitter page" width="52px">
+			</a>
+	</div>
+	<div class="edu">
+		<div class="about">
+          <h3>Schooling</h3>
+          <p>SKNS PMC VVJC, Perambur</p>
+        </div>
+        <div class="about">
+          <h3>Secondary Education</h3>
+          <p>DAV Senior Secondary School (Boys), Mogappair</p>
+        </div>
+        <div class="about">
+          <h3>College</h3>
+          <p>National Institute of Technology, Trichy</p>
+        </div>
+		<div style="clear:both;"></div>
+    </div>
+	<div class="portfolio">
+		<div class="myself">
+			<h3>About Me!</h3>
+				<p>&emsp;I'm a perfectionist. I get satisfaction only if I do my things on my own. I got a creative mind too. I'm pretty good at music. Well, not vocals but guitar.
+				I like long drives and visiting places. I got a nice group of friends in NIT. The best group actually. The time being around them is totally awesome. Well, 
+				the group has a majority of Archi and roaming all the time with them is total fun. At first many have doubted if I'm an Archi.</br> </br>&emsp;I love photography and shooting.
+				Actually, I got this interest from three of my friends who even got into PixelBug. Whatelse? Coding? Nah! I'm a rookie. I took up EG in my higher secondary 
+				(For many EG may be boring, but for me EG is bae <3). So this tells that I ain't a Pro in Coding. But I love to learn and do stuff.</br></br> Well, this is much about me. :)
+				</p>	
+		</div>
+		<div class="image">
+				<img src="C:\Users\HP PC\Desktop\Web Dev\Myself.jpg" height="200px"/>
+		</div>
+		<div style="clear:both;"></div>
+	</div>	
+	<div class="pictures">
+		<img src="C:\Users\HP PC\Desktop\Web Dev\Class Pic.jpg" style="border-radius: 20px"/>
+		<img src="C:\Users\HP PC\Desktop\Web Dev\_DSC0197.jpg" style="border-radius: 20px"/>
+	</div>
+</body>
+</html>
